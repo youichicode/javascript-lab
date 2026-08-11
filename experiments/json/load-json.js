@@ -1,0 +1,13 @@
+const hiraganaQuestions = require("./hiragana.json");
+
+console.log(hiraganaQuestions);
+
+/* output: 
+[
+  { "question": "あ", "answer": "a" },
+  { "question": "い", "answer": "i" },
+  { "question": "う", "answer": "u" },
+  { "question": "え", "answer": "e" },
+  { "question": "お", "answer": "o" }
+]
+*/
